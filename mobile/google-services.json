@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "49896463863",
+    "project_id": "quizmint-c6068",
+    "storage_bucket": "quizmint-c6068.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49896463863:android:676a85d01b29e3541922f2",
+        "android_client_info": {
+          "package_name": "com.bonhomie95.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1LxBxVsNgASnobgI6nMDrNMoPu3P3XAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
